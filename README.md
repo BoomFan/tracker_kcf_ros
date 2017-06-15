@@ -1,3 +1,12 @@
+# tracker_kcf_ros
+
+This ROS package is built for a stereo depth camera which installed on Segway platform RMP_220 in ROAHM Lab, University of Michigan.
+
+Settings and configurations are adjusted for this platform individually.
+
+Original package is maitained for a KCF tracker provided by https://github.com/TianyeAlex/tracker_kcf_ros.git.
+
+# Here starts his original README file:
 # tracker_ws
 基于ros下应用深度相机的kcf追踪算法实现
 
