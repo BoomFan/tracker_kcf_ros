@@ -18,7 +18,7 @@
 static const std::string RGB_WINDOW = "RGB Image window";
 //static const std::string DEPTH_WINDOW = "DEPTH Image window";
 
-#define Max_linear_speed 4 //0.6
+#define Max_linear_speed 2.5 //0.6
 #define Min_linear_speed 0.4
 #define Min_distance 2.0 //1.5
 #define Max_distance 5.0
